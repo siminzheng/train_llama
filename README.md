@@ -1,6 +1,7 @@
 # train_llama
 手动训练一个Llama3模型的简单示例
 
+'''
 模型架构：
 llama-lora-finetune/
 ├── README.md
@@ -15,3 +16,4 @@ llama-lora-finetune/
 │   └── logging.py
 └── scripts/
     └── train.py
+'''
